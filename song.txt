@@ -1,0 +1,2 @@
+nowalinia 1 
+nowa linia 2
